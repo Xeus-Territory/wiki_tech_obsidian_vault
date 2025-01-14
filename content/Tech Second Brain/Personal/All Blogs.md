@@ -280,7 +280,7 @@ tags:
 - [[Command injection]]
 - [[CVE-2023-34092 - Path Equivalence in Vite]]
 
-# Do2Weekly Tech
+# DueWeekly Tech
 
 >[!info]
 >The series is the collection of mine about news, tools and articles technologies during two weeks around the world 🌈

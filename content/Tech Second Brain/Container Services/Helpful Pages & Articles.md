@@ -212,6 +212,7 @@ tags:
 ## Organizations
 
 - [ApeCloud](https://github.com/apecloud): The community who focus on designing architecture inside Cloud Platform, especially Kubernetes. Author of [Kubeblocks](https://kubeblocks.io/docs/release-0.9/user_docs/overview/introduction)
+- [AppsCode](https://github.com/appscode): Kubernetes-native Data Platform
 - [Devtron Inc](https://github.com/devtron-labs): Software Delivery Workflow For Kubernetes
 - [Kubecost](https://github.com/kubecost): Organization of Kubecost - a monitoring application which provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs
 - [Kubeflow](https://github.com/kubeflow/):  An open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes
@@ -219,6 +220,7 @@ tags:
 - [kubernetes-sigs](https://github.com/kubernetes-sigs) : Org for Kubernetes SIG-related work
 - [KubeWharf](https://github.com/kubewharf): Developer community legit insane tools for Kubernetes
 - [Polyaxon](https://github.com/polyaxon): A platform for reproducible and scalable machine learning and deep learning
+- [The Helm Project](https://github.com/helm): The package manager for Kubernetes
 ## Practicing
 
 - [AKS DevSecOps Workshop](https://azure.github.io/AKS-DevSecOps-Workshop/): Practical exercises to learn about Azure Kubernetes Service
@@ -244,6 +246,12 @@ tags:
 - [AWS Blogs - A deep dive into simplified Amazon EKS access management controls](https://aws.amazon.com/vi/blogs/containers/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
 - [Kubecost - Monitoring NVIDIA GPU Usage in Kubernetes with Prometheus](https://blog.kubecost.com/blog/nvidia-gpu-usage/)
 - [Last9 - How to Monitor Ephemeral Storage Metrics in Kubernetes](https://last9.io/blog/monitor-ephemeral-storage-metrics-in-kubernetes/)
+- [Ingress Nginx Controller - Basic Authentication](https://kubernetes.github.io/ingress-nginx/examples/auth/basic/)
+- [Medium - How to Setup Dynamic NFS Provisioning in a Kubernetes Cluster](https://hbayraktar.medium.com/how-to-setup-dynamic-nfs-provisioning-in-a-kubernetes-cluster-cbf433b7de29)
+- [GitHub - Deploying NFS Server in Kubernetes](https://github.com/appscode/third-party-tools/blob/master/storage/nfs/README.md)
+## Topics
+
+- [Helm](https://github.com/topics/helm)
 ## Troubleshoot
  
 - [StackOverFlow - How can I keep a container running on Kubernetes?](https://stackoverflow.com/questions/31870222/how-can-i-keep-a-container-running-on-kubernetes)
@@ -342,13 +350,14 @@ tags:
 
 - [HAMi](https://github.com/Project-HAMi/HAMi): Heterogeneous AI Computing Virtualization Middleware
 - [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator): NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes. [Documentation](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/overview.html)
-## Kubernetes Metrics
-
-- [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics): Add-on agent to generate and expose cluster-level metrics
-- [metrics-server](https://github.com/kubernetes-sigs/metrics-server): Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 ## Kubernetes MLOps
 
 - [polyaxon](https://github.com/polyaxon/polyaxon): MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+## Kubernetes Monitoring
+
+- [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics): Add-on agent to generate and expose cluster-level metrics
+- [metrics-server](https://github.com/kubernetes-sigs/metrics-server): Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+- [prometheus-operator](https://prometheus-operator.dev/docs/getting-started/introduction/): A [Kubernetes Operator](https://github.com/cncf/tag-app-delivery/blob/main/operator-wg/whitepaper/Operator-WhitePaper_v1-0.md#foundation) that provides Kubernetes native deployment and management of [Prometheus](https://prometheus.io/) and related monitoring components.
 ## Kubernetes Operator & Chart
 
 - [Artifacthub](https://artifacthub.io/) : Find, install and publish Cloud Native packages for Kubernetes
@@ -383,6 +392,12 @@ tags:
 
 - [MinIO](https://min.io/docs/minio/kubernetes/upstream/index.html): MinIO Object Storage for Kubernetes
 - [Rook](https://rook.io/docs/rook/latest-release/Getting-Started/intro/): An open source cloud-native storage orchestrator, providing the platform, framework, and support for Ceph storage to natively integrate with cloud-native environments.
+- [nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner): Dynamic sub-dir volume provisioner on a remote NFS server.
+- [linstor-server](https://github.com/LINBIT/linstor-server): High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
+## Kubernetes Secret Management
+
+- [external-secrets](https://github.com/external-secrets/external-secrets): External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator): Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 ## Kubernetes Threat Intelligence
 
 - [Falco](https://falco.org/): Detect security threats in real time
