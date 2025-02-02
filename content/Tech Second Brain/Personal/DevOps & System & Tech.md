@@ -87,6 +87,7 @@ tags:
 - [VMware Archive](https://github.com/vmware-archive): Archive project from VMware
 - [VMware](https://github.com/vmware): Open Source Project from VMware
 - [Vox Pupuli](https://github.com/voxpupuli): Modules and tooling maintained by and for the [Puppet](https://www.puppet.com/) community
+- [Yandex](https://github.com/yandex): Yandex open source projects and technologies
 ## Page
 
 - [Ansible Galaxy](https://galaxy.ansible.com/ui/) : Ansible template and external playbook
@@ -128,8 +129,9 @@ tags:
 - [Metrics](https://github.com/topics/metrics)
 - [Orchestration](https://github.com/topics/orchestration)
 - [Package manager](https://github.com/topics/package-manager)
-- [Performance]
+- [Performance](https://github.com/topics/performance)
 - [Platform Orchestrator](https://internaldeveloperplatform.org/platform-orchestrators/)
+- [Profiling](https://github.com/topics/profiling)
 - [Toolkit](https://github.com/topics/toolkit)
 - [Virtualization](https://github.com/topics/virtualization)
 - [Virtual Machine](https://github.com/topics/virtual-machine)
@@ -150,6 +152,7 @@ tags:
 - [Milan Newsletter](https://newsletter.techworld-with-milan.com/) - Guy will teach you more about infrastructure, architecture, ...
 - [Noted](https://noted.lol/) - Self Hosted App and Product Reviews
 - [Platform Engineer Blog](https://platformengineering.org/blog) - The discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era.
+- [Medium - ScalaBrix](https://scalabrix.medium.com/) - System Design & Architecture | Distributed Systems | Tech Blog with clearly explanation and beauty diagram
 ## DevOps Blog
 
 - [4sysops](https://4sysops.com/) -  The online community for SysAdmins and DevOps
@@ -462,6 +465,7 @@ tags:
 - [Medium - Single Point of Failure (SPOF) in System Design](https://levelup.gitconnected.com/single-point-of-failure-spof-in-system-design-c8bbac5af993)
 - [Ably - Event-driven architecture patterns and when to use them](https://ably.com/topic/event-driven-architecture-patterns)
 - [Medium - Building end-to-end DevSecOps for AWS Migration: Security at Entry Level with open source SCA, SAST and DAST tools](https://medium.com/@akhilmittal510/building-end-to-end-devsecops-for-aws-migration-security-at-entry-level-with-open-source-sca-sast-919480423fc1)
+- [Medium - System design concepts: Distributed Task Queue System 🎯](https://levelup.gitconnected.com/system-design-concepts-distributed-task-queue-system-8bc99647a093)
 ## Techniques
 
 - [Internet - How to build and deploy React Native applications with Fastlane](https://tech.sparkfabrik.com/en/blog/fastlane_build/)

@@ -1,5 +1,5 @@
 ---
-title: Shell Command Collections
+title: Linux Shell Command Collections
 tags:
   - awesome
   - linux
@@ -60,6 +60,16 @@ journalctl -p err -b
 >- 5: notice
 >- 6: info
 >- 7: debug
+
+Check the log systemd in catalog and pagination, you can use
+
+```bash
+journalctl -xeu service-name.service
+
+--catalog         -x  -- Show explanatory texts with each log line 
+--pager-end       -e  -- Jump to the end of the journal in the pager
+--unit            -u  -- Show data only from the specified unit
+```
 ## `grep` command
 
 Use grep with exclude by `-v` flag
