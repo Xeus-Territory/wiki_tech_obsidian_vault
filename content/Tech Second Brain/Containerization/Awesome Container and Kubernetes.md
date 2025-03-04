@@ -258,6 +258,8 @@ tags:
 - [Technotim - Mirror your Kubernetes configs, secrets, and resources to other namespaces](https://technotim.live/posts/k8s-reflector/)
 - [Medium - Running a “stateless” email server in Kubernetes using Mailu](https://medium.com/gitconnected/running-a-stateless-email-server-in-kubernetes-using-mailu-9c1ebd8003e9)
 - [Medium - Mastering Ingress Strategies for AWS EKS: ALB vs. Istio vs. NGINX](https://ramchandra-vadranam.medium.com/mastering-ingress-strategies-for-aws-eks-alb-vs-istio-vs-nginx-34a7bd4ce152)
+- [Medium - Configure Hashicorp's Vault for Kubernetes Auth](https://docs.armory.io/continuous-deployment/armory-admin/secrets/vault-k8s-configuration/)
+- [Vault - Kubernetes auth method](https://developer.hashicorp.com/vault/docs/auth/kubernetes#kubernetes-auth-method)
 ## Topics
 
 - [Helm](https://github.com/topics/helm)
